@@ -1,5 +1,5 @@
 ---
-title: Louis XIII Style 1
+title: Neue Galerie (1914)
 category: Louis XIII
 category_slug: f-louis
 type: content
@@ -9,4 +9,8 @@ tags: [Dutch gable, Eave return]
 # button_url: /glossary/#dormer-windows
 ---
 
-lorem itsupm....
+Also known as: William Starr Miller House 
+Address: 1048 5th Avenue; 
+Architect: Carrere & Hastings
+On an avenue lined with marble and limestone chateaux and palazzos, many of them dripping with scrolled brackets, swags and garlands, Starr’s mansion was quietly restrained in comparison. The house sat on a rusticated base, the central three bays projecting from the bulk of the structure. A high slate mansard roof with tall stone-framed dormers sat behind a limestone balustrade.
+As the mansion neared completion The New York Times commented on the atypical choice of style and materials on December 7, 1913.  “There is a dignity and simplicity far more pleasing than some of the excruciatingly ornate creations on the avenue,” the newspaper said.  “The use of red brick with limestone adds a cheerful touch of color suggestive of early Colonial to the Miller house.”  The New York Times added that the new house would be “of more than ordinary importance.
