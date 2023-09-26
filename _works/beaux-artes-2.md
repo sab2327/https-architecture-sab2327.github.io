@@ -1,5 +1,5 @@
 ---
-title: Beaux-artes 2
+title: Polish Embassy (1905)
 category: Beaux-artes
 category_slug: f-beaux
 type: content
@@ -9,4 +9,4 @@ tags: [Cancellus, Cant]
 # button_url: /glossary/#dormer-windows
 ---
 
-lorem itsupm....
+lorem ipsum...
