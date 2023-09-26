@@ -1,0 +1,10 @@
+# Home content configuration file
+##
+### here you can find all content for home page
+
+### Started
+started:
+  title: "A GRAMMAR OF NYC BUILDINGS"
+  typed:
+    - "Welcome, Andy"
+    - "to a growing repository of buildings we like"

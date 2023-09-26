@@ -1,0 +1,89 @@
+---
+layout: default
+---
+
+{% assign ui_text = site.data.ui-text['ui_text'] %}
+{% assign categories = site.data.settings['buildings'] %}
+
+
+<!-- Started -->
+<div class="section started">
+	<div class="centrize full-width">
+		<div class="vertical-center">
+			<div class="started-content">
+				<div class="h-title" data-text="{{ page.title }}">{{ page.title }}</div>
+				<div class="h-subtitle typing-bread">
+					<p><a href="{{ site.url }}">{{ ui_text.home }}</a> / <a href="{{ page.url }}">{{ page.title }}</a></p>
+				</div>
+				<span class="typed-bread"></span>
+			</div>
+		</div>
+	</div>
+	<a href="#" class="mouse_btn"><span class="ion ion-mouse"></span></a>
+</div>
+
+<!-- Works -->
+<div class="section works">
+	<div class="content">
+
+		<div class="filter-menu">
+			<div class="filters">
+				{% for category in categories.filters %}
+				<div class="btn-group">
+					<label data-text="{{ category.name }}">
+						<input type="radio" name="fl_radio" value=".{{ category.slug }}" />{{ category.name }}
+					</label>
+				</div>
+				{% endfor %}
+			</div>
+		</div>	
+
+		<div class="box-items portfolio-items">	
+			{% for work in site.works %}
+
+			{% if work.type == 'content' %}
+			<div class="box-item {{ work.category_slug }}">
+				<div class="image">
+					<a href="#popup-{{ work.id | replace: '/', '-' }}" class="has-popup-media">
+						<img src="{{ work.image | relative_url }}" alt="{{ work.title }}" />
+						<span class="info">
+							<span class="centrize full-width">
+								<span class="vertical-center">
+									<span class="ion ion-ios-plus-empty"></span>
+								</span>
+							</span>
+						</span>
+					</a>
+				</div>
+				<div class="desc">
+					<!-- <div class="category">{{ work.category }}</div> -->
+					<a href="#popup-{{ work.id | replace: '/', '-' }}" class="name has-popup-media">{{ work.title }}</a>
+				</div>
+				<div id="popup-{{ work.id | replace: '/', '-' }}" class="popup-box mfp-fade mfp-hide">
+					<div class="content">
+						<div class="image">
+							<img src="{{ work.image | relative_url }}" alt="{{ work.title }}" />
+						</div>
+						<div class="desc">
+							<div class="category">{{ work.category }}</div>
+							<h4>{{ work.title }}</h4>
+							<div class="single-post-text">
+								{{ work.content }}
+							</div>
+							{% if work.tags %}
+								{% for tag in work.tags %}
+									<a href="/glossary/#{{ tag | slugify }}">#{{ tag }}</a>
+								{% endfor %}
+							{% endif %}
+						</div>
+					</div>
+				</div>
+			</div>
+			{% endif %}
+
+			{% endfor %}
+		</div>
+
+		<div class="clear"></div>
+	</div>
+</div>
