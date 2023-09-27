@@ -32,21 +32,21 @@ buildings:
       slug: "f-beaux"
       active: 0    
       
-    # - name: "Video"
-    #   slug: "f-video"
-    #   active: 0
+    - name: "Second Empire"
+      slug: "f-empire"
+      active: 0
 
-    # - name: "Music"
-    #   slug: "f-music"
-    #   active: 0
+    - name: "Gothic Revival"
+      slug: "f-gothic"
+      active: 0
 
-    # - name: "Links"
-    #   slug: "f-link"
-    #   active: 0
+    - name: "Renaissance Revival"
+      slug: "f-renaissance"
+      active: 0
 
-    # - name: "Image"
-    #   slug: "f-image"
-    #   active: 0
+    - name: "Italianate"
+      slug: "f-italianate"
+      active: 0
 
     # - name: "Gallery"
     #   slug: "f-gallery"
