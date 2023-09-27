@@ -43,7 +43,7 @@ An unsupported overhang acting as a lever, like a flagpole sticking out of the s
 # Chamfered rustication
 A form of rustication in which the sides of the blocks are angled, creating V-shaped groves at the joints
 
-# dormer windows
+# Dormer windows
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut suscipit provident corrupti. Qui quibusdam voluptates libero sunt vero, atque suscipit, reiciendis eaque accusamus laborum dolorum reprehenderit, necessitatibus et omnis fuga?......
 
 # Mansard Roof
