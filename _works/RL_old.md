@@ -1,5 +1,5 @@
 ---
-title: Greta ... RL OLd
+title: Gertrude Rhinelander Waldo House
 category: Art Nouveau
 category_slug: f-nouveau
 type: content
