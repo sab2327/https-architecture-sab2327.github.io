@@ -3,7 +3,7 @@ title: Davis Mansion (1902)
 category: Beaux-artes, Louis XIII
 category_slug: f-beaux, f-louis
 type: content
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Opera_Garnier_Grand_Escalier.jpg/500px-Opera_Garnier_Grand_Escalier.jpg
+image: https://riversidestudycenter.org/pics/330_riverside_1902.jpg
 tags: [Balconet, Ball-flower, mckim meade white]
 # a_text: dormer windows
 # button_url: /glossary/#dormer-windows
