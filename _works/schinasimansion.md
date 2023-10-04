@@ -1,5 +1,5 @@
 ---
-title: Brutalist 2
+title: 
 category: Brutalist
 category_slug: f-brutalist
 type: content
