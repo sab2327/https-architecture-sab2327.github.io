@@ -1,5 +1,5 @@
 ---
-title: Louis XIII Style 2
+title: The Dakota
 category: Louis XIII
 category_slug: f-louis
 type: content
