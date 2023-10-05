@@ -3,7 +3,7 @@ title: Hotel Belleclaire (1903)
 category: Art Nouveau
 category_slug: f-nouveau
 type: content
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Abbesses.JPG/800px-Abbesses.JPG
+image: https://static01.nyt.com/images/2018/01/14/realestate/14BELLECLAIRE-slide-81EM/14BELLECLAIRE-slide-81EM-superJumbo.jpg
 tags: [dormer-windows, Abacus]
 # a_text: dormer windows
 # button_url: /glossary/#dormer-windows
