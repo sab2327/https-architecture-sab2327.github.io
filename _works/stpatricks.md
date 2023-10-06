@@ -1,7 +1,7 @@
 ---
 title: 100 w 72nd St
-category: Art Nouveau
-category_slug: f-nouveau
+category: Gothic Revival
+category_slug: f-gothic
 type: content
 image: https://www.periodpaper.com/cdn/shop/products/YOC1_035.jpg?v=1571712353
 tags: [Accolade, Aisle]
