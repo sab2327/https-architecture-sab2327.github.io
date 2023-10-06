@@ -1,6 +1,6 @@
 ---
 title: The Farley Building (1914)
-category: Beaux-artes
+category: Beaux-arts
 category_slug: f-beaux
 type: content
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/James_Farley_Post_Office_c1912.jpg/440px-James_Farley_Post_Office_c1912.jpg
