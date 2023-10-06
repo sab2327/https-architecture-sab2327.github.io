@@ -1,6 +1,6 @@
 ---
 title: Davis Mansion (1902)
-category: Beaux-artes, Louis XIII
+category: Beaux-arts, Louis XIII
 category_slug: f-beaux, f-louis
 type: content
 image: https://riversidestudycenter.org/pics/330_riverside_1902.jpg
