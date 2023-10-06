@@ -1,5 +1,5 @@
 ---
-title: The Springfield
+title: The Springfield (1926)
 category: Art Nouveau
 category_slug: f-nouveau
 type: content
