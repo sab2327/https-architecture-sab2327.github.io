@@ -1,5 +1,5 @@
 ---
-title: 640 West End Ave
+title: 640 West End Ave (1913)
 category: Renaissance Revival
 category_slug: f-renaissance
 type: content
