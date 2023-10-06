@@ -23,9 +23,20 @@ title: further reading example
   target="_blank"><b>THE PRACTICAL BOOK OF ARCHITECTURE (PDF)</b></a></p>
 </div>
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut suscipit provident corrupti. Qui quibusdam voluptates libero sunt vero, atque suscipit, reiciendis eaque accusamus laborum dolorum reprehenderit, necessitatibus et omnis fuga?......
+"The Classic Ideal is the Ideal of Order. It is because Classic architecture was based on the idea of order that it was characterised by
+purity, and its order and purity, being immortal qualities, have caused Classic architecture not only to live, but to stand to-day as the rational basis of the architectural design of all time. Gothic architecture was ingenious a magnificent and beautiful experiment. Classic architecture was not experimental its principles were as sound as Euclid in their day, and have lost none of that soundness in
+the centuries which have passed" (p. 73).
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut suscipit provident corrupti. Qui quibusdam voluptates libero sunt vero, atque suscipit, reiciendis eaque accusamus laborum dolorum reprehenderit, necessitatibus et omnis fuga?......
+On Beaux-arts: "Combined with fundamental ideas of Classic order and symmetry, the Beaux Arts school developed, as well, a certain distinct French quality of gaiety and, at times, even frivolity. The style, for this reason, has always seemed admirably suitable for exposition buildings, casinos, music-halls, theatres and similar buildings. A peculiar fault of Beaux Arts architecture has frequently been that of counteracting the dignity of general conception and composition by the introduction of distinctly frivolous detail, so that banks, courthouses or other buildings in which the expression of dignity is essential, have avoided the style, as an unsafe architectural medium. This frivolity of detail, at once an attractive and detractive feature of Beaux Arts architecture, has given the hostile critics another weapon, and one of which they have amply availed themselves... 
+
+In style, 'Beaux Arts detail drew its inspiration from Classic sources, from Renaissance forms, and from cer- tain forms characteristic of the Classic Revival of Louis XVI, and of designers in earlier reigns. A certain gay exuberance and cursive freedom are apparent. Mouldings and all other profiles are very' ' full. ' y Flat curves and low relief are by no means frequent, and on every fagade there is a profusion of cartouches, consoles, garlands, elaborate key-blocks, lions' heads, and, often, naturalistic ornament. Mixed with these may be such forms as the chaste Greek fret ornament, elliptical windows and the refined "guilloche" orna- ment of Louis XVI, and Classic pediments.
+This feature however the pediment, especially as employed on dormer windows, usually takes sinuous forms, and balustrades or roof lines are a favourite location for sculptured urns, often with a conventional flame. Ornamental iron work, in the form of grilles and railings, is conspicuous in the Beaux Arts fagade, and this is designed in the most cursive and flowing character possible. Another characteristic metal embellishment on which French designers of this school have lavished a wealth of fertile ingenuity and graceful detail is the marquise, or iron-and-glass hood projecting over a doorway as a rain-shelter on entering.
+
+Architectural sculpture of the Beaux Arts school departed from earlier conceptions of conventionality, and became naturalistic to a degree. The nude gained favour in pediment and spandril treatments, as well as in placements more detached from the actual design. The- fountain figures flanking the central portico of the New York Public Library illustrate this modern French concept of architectural sculpture, and are, for that reason, perfectly in keeping with the distinctly ''Beaux Arts" character of the building. Although the School has taught the importance of "scale" among its fundamental precepts, many Beaux Arts students seem to have disregarded it, and exaggerated scale in detail has marred many buildings of this style which might otherwise have possessed distinct
+merit. 
+
+We find then, on summarising, that Beaux Arts architecture begins with the symmetrical plan, laid out on axes, carries this plan out in the elevation, and, while adhering to logical proportions of mass, allows too great freedom in detail. This detail, while derived from sources Classic, Italian and Louis XVI, usually lacks Classic chastity, Italian romance or Louis XVI refinement, yet possesses certain positive architectural qualities eminently appropriate for certain types of buildings" (98-101).
+
 <div>
   <a 
   href="http://ia800901.us.archive.org/18/items/practicalbookofa00priciala/practicalbookofa00priciala.pdf" 
@@ -33,8 +44,7 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut suscipit provident 
   READ MORE
   </a>
 </div>
-<br><br><br>
-
+<br><br><be>
 
 # Lectures on Architecture and Painting
 <div style="text-align: center;">
