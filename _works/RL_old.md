@@ -1,5 +1,5 @@
 ---
-title: Gertrude Rhinelander Waldo House
+title: Gertrude Rhinelander Waldo House (1898)
 category: Art Nouveau
 category_slug: f-nouveau
 type: content
@@ -9,4 +9,4 @@ tags: [Dormer Windows, Aisle]
 # button_url: /glossary/#dormer-windows
 ---
 
-lorem itsupm....
+Architect: Francis H. Kimball and G. Kramer Thompson
