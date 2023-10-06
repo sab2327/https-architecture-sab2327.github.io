@@ -1,5 +1,5 @@
 ---
-title: The Dakota
+title: The Dakota (1884)
 category: Renaissance Revival
 category_slug: f-reniassance
 type: content
