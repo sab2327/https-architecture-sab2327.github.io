@@ -1,5 +1,5 @@
 ---
-title: 205 Mulberry
+title: 205 Mulberry (1871)
 category: Art Nouveau
 category_slug: f-nouveau
 type: content
