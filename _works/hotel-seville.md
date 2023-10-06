@@ -1,5 +1,5 @@
 ---
-title: Hotel Seville
+title: Hotel Seville (1904)
 category: Art Nouveau
 category_slug: f-nouveau
 type: content
@@ -9,4 +9,5 @@ tags: [Accolade, Aisle]
 # button_url: /glossary/#dormer-windows
 ---
 
-lorem itsupm....
+Address: 22 E 29th Street
+History: The building’s distinctive red brick and limestone Beaux-Arts style exterior with ornate sculptures and ornamentation create a visual feast for those who love architecture and a sense of history.
