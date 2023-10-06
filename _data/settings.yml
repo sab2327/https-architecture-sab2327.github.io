@@ -28,7 +28,7 @@ buildings:
       slug: "f-brutalist"
       active: 0      
 
-    - name: "Beaux-artes"
+    - name: "Beaux-arts"
       slug: "f-beaux"
       active: 0    
       
