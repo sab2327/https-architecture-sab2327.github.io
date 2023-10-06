@@ -1,5 +1,5 @@
 ---
-title: Ralph Lauren New
+title: Ralph Lauren New (2010)
 category: Art Nouveau
 category_slug: f-nouveau
 type: content
