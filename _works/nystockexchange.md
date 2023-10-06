@@ -1,7 +1,7 @@
 ---
 title: NY Stock Exchange (1903)
-category: Art Nouveau
-category_slug: f-nouveau
+category: Neoclassical
+category_slug: f-classical
 type: content
 image: https://birdinflight.imgix.net/wp-content/uploads/2015/09/Finance_cover.jpg?fm=pjpg&q=70&fit=crop&crop=faces
 tags: [Portico, Pediment, Entablature, Colonnade]
