@@ -1,5 +1,5 @@
 ---
-title: NSA Spy Building
+title: NSA Spy Building (1974)
 category: Brutalist
 category_slug: f-brutalist
 type: content
@@ -9,4 +9,5 @@ tags: [Cantilever, dormer windows]
 # button_url: /glossary/#dormer-windows
 ---
 
-lorem itsupm....
+Address: 33 Thomas Street
+Architect: John Carl Warnecke
