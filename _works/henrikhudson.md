@@ -3,7 +3,7 @@ title: Henrik Hudson
 category: Italianate
 category_slug: f-italianate
 type: content
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tassel_House_stairway.JPG/800px-Tassel_House_stairway.JPG
+image: https://i0.wp.com/ephemeralnewyork.wordpress.com/files/2009/09/hendrickhudson.jpg
 tags: [Accolade, Aisle]
 # a_text: dormer windows
 # button_url: /glossary/#dormer-windows
