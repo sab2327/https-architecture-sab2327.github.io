@@ -4,7 +4,7 @@ category: Italianate
 category_slug: f-italianate
 type: content
 image: https://i0.wp.com/ephemeralnewyork.wordpress.com/files/2009/09/hendrickhudson.jpg
-tags: [Accolade, Aisle]
+tags: [Palladian Arch, Frieze, Rustication, Cornice]
 # a_text: dormer windows
 # button_url: /glossary/#dormer-windows
 ---
