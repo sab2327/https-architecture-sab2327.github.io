@@ -1,7 +1,7 @@
 ---
 title: Arnold Contable & Co.
-category: Art Nouveau
-category_slug: f-nouveau
+category: Second Empire
+category_slug: f-empire
 type: content
 image: https://www.archiseek.com/wp-content/gallery/usa-victoriana-newyork/0064.jpg
 tags: [Dormer Windows, Aisle]
