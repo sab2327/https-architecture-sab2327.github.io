@@ -3,7 +3,7 @@ title: 640 West End Ave
 category: Renaissance Revival
 category_slug: f-renaissance
 type: content
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tassel_House_stairway.JPG/800px-Tassel_House_stairway.JPG
+image: https://1.bp.blogspot.com/-lLs5ZSbn2Bo/X7zrVYnbnuI/AAAAAAAA3wg/Gkwli0KcPI4iFBOiYlYHIiVkEcSRlHmTACLcBGAsYHQ/s688/640%2Bwest%2Bend%2Bav%2B1914.png
 tags: [Architrave Frames, Pediments]
 # a_text: dormer windows
 # button_url: /glossary/#dormer-windows
