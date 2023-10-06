@@ -1,5 +1,5 @@
 ---
-title: Emmet Building
+title: Emmet Building (1912)
 category: Renaissance Revival
 category_slug: f-renaissance
 type: content
