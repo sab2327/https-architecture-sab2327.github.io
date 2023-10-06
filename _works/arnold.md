@@ -1,5 +1,5 @@
 ---
-title: Arnold Contable & Co.
+title: Arnold Contable & Co. (1868)
 category: Second Empire
 category_slug: f-empire
 type: content
@@ -9,4 +9,5 @@ tags: [Dormer Windows, Aisle]
 # button_url: /glossary/#dormer-windows
 ---
 
-lorem itsupm....
+- 115 5th Avenue
+- Architect: Griffith Thomas
