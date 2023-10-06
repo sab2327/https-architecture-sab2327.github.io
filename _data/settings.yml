@@ -48,9 +48,9 @@ buildings:
       slug: "f-italianate"
       active: 0
 
-    # - name: "Gallery"
-    #   slug: "f-gallery"
-    #   active: 0
+    - name: "Neoclassical"
+      slug: "f-classical"
+      active: 0
 
     # - name: "Content"
     #   slug: "f-content"
