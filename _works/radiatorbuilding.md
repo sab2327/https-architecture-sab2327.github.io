@@ -1,6 +1,6 @@
 ---
 title: Radiator Building (1924)
-category: Gothic Revival
+category: Gothic Revival, Art Deco
 category_slug: f-gothic
 type: content
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRXCG-WoSPskMRDACoKsPTh1OI1SqoKQ8akg&usqp=CAU
