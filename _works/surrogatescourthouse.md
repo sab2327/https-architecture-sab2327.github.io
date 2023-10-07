@@ -1,5 +1,5 @@
 ---
-title: Surrogate's Courthouse (1907)
+title: Surrogate's Court - Hall of Records (1907)
 category: Beaux-arts
 category_slug: f-beaux
 type: content
