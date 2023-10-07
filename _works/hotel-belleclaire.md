@@ -4,7 +4,7 @@ category: Art Nouveau
 category_slug: f-nouveau
 type: content
 image: https://static01.nyt.com/images/2018/01/14/realestate/14BELLECLAIRE-slide-81EM/14BELLECLAIRE-slide-81EM-superJumbo.jpg
-tags: [cupola, dommed turret, soffits, copstones]
+tags: [cupola, dommed turret, soffits, copstones, tripartite configuration]
 # a_text: dormer windows
 # button_url: /glossary/#dormer-windows
 ---
