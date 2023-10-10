@@ -40,6 +40,9 @@ Refers to the combination of handrail, spindles (or 'balusters'), base rail, and
 # Cant
 An angled (oblique) line or surface, especially one that cuts off a corner.
 
+# Cancellus
+Lorem ipsum...
+
 # Cantilever
 An unsupported overhang acting as a lever, like a flagpole sticking out of the side of a wall.
 
@@ -49,11 +52,17 @@ Lorem ipsum...
 # Chamfered rustication
 A form of rustication in which the sides of the blocks are angled, creating V-shaped groves at the joints
 
+# Copstones
+Lorem ipsum...
+
 # Cresting
 Lorem Ipsum...
 
 # Cupola
 A round tower...
+
+# Dommed Turret
+lorem ipsum...
 
 # Dormer windows
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut suscipit provident corrupti. Qui quibusdam voluptates libero sunt vero, atque suscipit, reiciendis eaque accusamus laborum dolorum reprehenderit, necessitatibus et omnis fuga?......
@@ -88,11 +97,17 @@ lorem ipsum dolor...
 # Gable
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut suscipit provident corrupti. Qui quibusdam voluptates libero sunt vero, atque suscipit, reiciendis eaque accusamus laborum dolorum reprehenderit, necessitatibus et omnis fuga?......
 
+# High French Windows
+Lorem Ipsum,,,
+
 # Lunette
 Lorem ipsum...
 
 # Mullions
 Lorem ipsum...
+
+# Paneled Frieze
+Lorem ipsum....
 
 # Pediment
 Lorum Ipsum...
@@ -100,8 +115,16 @@ Lorum Ipsum...
 # Pilasters
 Lorem ipsum...
 
+# Spandrles
+Lorem Ipsum...
+
+# Soffits
+Lorem Ipsum
+
 # Tripartite Configuration
 Lorem Ipsum...
+
+# Triumphal Arch
 
 # ARCHITECTS
 
