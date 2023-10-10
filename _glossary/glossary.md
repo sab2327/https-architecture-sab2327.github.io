@@ -22,6 +22,9 @@ A sculptural embellishment of an arch.
 # Aisle
 The subsidiary space alongside the body of a building, separated from it by columns, piers, or posts.
 
+# Architrave Frames
+Lorem Ipsum..
+
 # Balconet
 A false balcony, or railing at the outer plane of a window.
 
@@ -40,8 +43,14 @@ An angled (oblique) line or surface, especially one that cuts off a corner.
 # Cantilever
 An unsupported overhang acting as a lever, like a flagpole sticking out of the side of a wall.
 
+# Cartouche
+Lorem ipsum...
+
 # Chamfered rustication
 A form of rustication in which the sides of the blocks are angled, creating V-shaped groves at the joints
+
+# Cresting
+Lorem Ipsum...
 
 # Cupola
 A round tower...
@@ -78,6 +87,21 @@ lorem ipsum dolor...
 
 # Gable
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut suscipit provident corrupti. Qui quibusdam voluptates libero sunt vero, atque suscipit, reiciendis eaque accusamus laborum dolorum reprehenderit, necessitatibus et omnis fuga?......
+
+# Lunette
+Lorem ipsum...
+
+# Mullions
+Lorem ipsum...
+
+# Pediment
+Lorum Ipsum...
+
+# Pilasters
+Lorem ipsum...
+
+# Tripartite Configuration
+Lorem Ipsum...
 
 # ARCHITECTS
 
