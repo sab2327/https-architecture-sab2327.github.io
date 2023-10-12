@@ -40,14 +40,11 @@ Refers to the combination of handrail, spindles (or 'balusters'), base rail, and
 # Cant
 An angled (oblique) line or surface, especially one that cuts off a corner.
 
-# Cancellus
-Lorem ipsum...
-
 # Cantilever
 An unsupported overhang acting as a lever, like a flagpole sticking out of the side of a wall.
 
 # Cartouche
-Lorem ipsum...
+An oval or oblong design with a slightly convex surface, typically edged with ornamental scrollwork. It is used to hold a painted or low-relief design. 
 
 # Chamfered rustication
 A form of rustication in which the sides of the blocks are angled, creating V-shaped groves at the joints
@@ -56,16 +53,16 @@ A form of rustication in which the sides of the blocks are angled, creating V-sh
 Lorem ipsum...
 
 # Cresting
-Lorem Ipsum...
+Ornamentation attached to the ridge of a roof, cornice, coping or parapet, usually made of a metal such as iron or copper (commonly associated with Second Empire architecture).
 
 # Cupola
-A round tower...
+A relatively small, most often dome-like, tall structure on top of a building.
 
-# Dommed Turret
+# Domed Turret
 lorem ipsum...
 
 # Dormer windows
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut suscipit provident corrupti. Qui quibusdam voluptates libero sunt vero, atque suscipit, reiciendis eaque accusamus laborum dolorum reprehenderit, necessitatibus et omnis fuga?......
+A roofed structure, often containing a window, that projects vertically beyond the plane of a pitched roof. 
 
 # Mansard Roof
 Blame the mansard roof on the 17th-century French designer François Mansart, who gave drama and scale to his architecture by adding a floor with a sloping facade of slate shingles. In New York, it caught on in the mid-1860s, and as early as 1868 The Real Estate Record and Guide complained that mansard fad was pernicious: “the thing becomes so overdone that sheer nausea begets a change.” 
@@ -92,7 +89,7 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut suscipit provident 
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut suscipit provident corrupti. Qui quibusdam voluptates libero sunt vero, atque suscipit, reiciendis eaque accusamus laborum dolorum reprehenderit, necessitatibus et omnis fuga?......
 
 # Fenestration
-lorem ipsum dolor...
+Refers to the arrangement, proportioning, and design of windows and doors in a building.
 
 # Gable
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut suscipit provident corrupti. Qui quibusdam voluptates libero sunt vero, atque suscipit, reiciendis eaque accusamus laborum dolorum reprehenderit, necessitatibus et omnis fuga?......
@@ -101,22 +98,28 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut suscipit provident 
 Lorem Ipsum,,,
 
 # Lunette
-Lorem ipsum...
+A lunette is a half-moon-shaped architectural space, variously filled with sculpture, painted, glazed, filled with recessed masonry, or void.
 
 # Mullions
-Lorem ipsum...
+A mullion is a vertical element that forms a division between units of a window or screen, or is used decoratively.
+
+# Oriel
+A bay window in an upper story, supported from below by projecting corbels, or brackets of stone or wood
 
 # Paneled Frieze
 Lorem ipsum....
 
+# Parapet
+A low protective wall along the edge of a roof, bridge, or balcony.
+
 # Pediment
-Lorum Ipsum...
+Pediments are a form of gable in classical architecture, usually of a triangular shape. Pediments are placed above the horizontal structure of the cornice, or entablature if supported by columns.
 
 # Pilasters
-Lorem ipsum...
+A shallow rectangular column that projects slightly beyond the wall into which it is built and conforms precisely to the order or style of the adjacent columns (feature of Greco-Roman Classical architecture).
 
 # Spandrles
-Lorem Ipsum...
+A spandrel is a roughly triangular space, usually found in pairs, between the top of an arch and a rectangular frame.
 
 # Soffits
 Lorem Ipsum
