@@ -9,8 +9,8 @@ tags: [Oriel Windows, Pilasters, Dormers]
 # button_url: /glossary/#dormer-windows
 ---
 
-Architect: Henry J. Hardenbergh
-Address: 1 W 72nd Street (1884)
+Architect: **Henry J. Hardenbergh**
+Address: **1 W 72nd Street (1884)**
 
 [Landmarks Preservation Commission](https://s-media.nyc.gov/agencies/lpc/lp/0280.pdf): "Clearly unique in its architectural character in New York, the Dakota, the City's first luxury apartment house, continues to be a conversation piece. This imposing structure of eight stories with an attic reflects the romanticism of the German Renaissance style and combines a superb blend of formalism and picturesqueness into a unified composition, with dignity and serenity. The design of each
 elevation is treated in an individual manner, without repetition or symmetry inhibiting the free use of an historical style. Monumental in scale and impressive in appearance, this building, massively constructed of yellow-colored brick with stone trim and terra cotta ornament, has the indestructible quality and undeniable grandeur reminiscent of a large, European chateau.
